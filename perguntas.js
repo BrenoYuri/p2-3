@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Basquete',
+    'Quantos jogadores compõem um time de basquete em quadra durante uma partida?',
+    'Cinco jogadores por equipe'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Tênis de Mesa',
+    'Qual é o tamanho padrão da mesa de tênis de mesa de acordo com as regras oficiais da ITTF?',
+    'A mesa deve medir 2,74 metros de comprimento, 1,525 metros de largura e 76 centímetros de altura.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Vôlei',
+    'Qual é a altura da rede no vôlei masculino e no vôlei feminino, de acordo com as regras oficiais da FIVB?',
+    'Qual é a altura da rede no vôlei masculino e no vôlei feminino, de acordo com as regras oficiais da FIVB?'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Futebol',
+    'Qual é o país com mais títulos da Copa do Mundo de Futebol Masculino?',
+    'Brasil, com 5 títulos.'
 )
